@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/split_bill/static/css/main.97d6c520.css",
-    "main.js": "/split_bill/static/js/main.c0ff9080.js",
-    "index.html": "/split_bill/index.html",
-    "main.97d6c520.css.map": "/split_bill/static/css/main.97d6c520.css.map",
-    "main.c0ff9080.js.map": "/split_bill/static/js/main.c0ff9080.js.map"
+    "main.css": "/Eat-And-Split/static/css/main.97d6c520.css",
+    "main.js": "/Eat-And-Split/static/js/main.c0ff9080.js",
+    "index.html": "/Eat-And-Split/index.html",
+    "main.97d6c520.css.map": "/Eat-And-Split/static/css/main.97d6c520.css.map",
+    "main.c0ff9080.js.map": "/Eat-And-Split/static/js/main.c0ff9080.js.map"
   },
   "entrypoints": [
     "static/css/main.97d6c520.css",
